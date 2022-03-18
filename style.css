@@ -147,3 +147,15 @@ img {
 .card-name:hover {
   background-color: purple;
 }
+
+@media screen and (max-width: 600px) {
+  .search-bar {
+    width: 80%;
+  }
+  .material-icons {
+    display: none;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+}
