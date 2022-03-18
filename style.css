@@ -96,9 +96,7 @@ img {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
 }
-.card-name {
-  padding: 0.8rem 0;
-}
+
 @keyframes shake {
   0% {
     transform: translate(1px, 1px) rotate(0deg);
@@ -142,6 +140,8 @@ img {
   color: aliceblue;
   justify-content: center;
   border-radius: 0 0 5px 5px;
+  padding: 0.8rem 0;
+  text-transform: capitalize;
 }
 
 .card-name:hover {
@@ -156,9 +156,12 @@ img {
     display: none;
   }
   input {
-    padding: 0 0 0 1rem;
+    padding: 0.5rem 1rem;
   }
   h1 {
     font-size: 5rem;
+  }
+  #types {
+    font-size: smaller;
   }
 }
