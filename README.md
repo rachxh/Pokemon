@@ -1,4 +1,4 @@
-# Project title
+# Pokemon-dex
 
 This is project is an index search for Pokemon
 
