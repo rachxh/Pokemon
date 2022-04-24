@@ -1,6 +1,6 @@
 # Pokemon-dex
 
-This is project is an index search for Pokemon
+This app has created an index search for Pokemon
 
 ## Technologies used
 
